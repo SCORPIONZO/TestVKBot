@@ -26,12 +26,11 @@ public class MyBot extends LongPollBot {
 
     @Override
     public String getAccessToken() {
-        return "vk1.a.jfS58BZuvMc69j1wSnZHcG9LJDQ86GdrcFf90mNVRemTNEmqEAXxfqmK5a3uoNWIG3ktB2rSjcsABOqNvIlupV4GsTyevo3ZJRKynFcmVB79hUY7Y159wJ2bclxXuD3yRbLTr6zTLQKbUZqpcQ7N8Aqb7TsD1d3b4Sje37d6p4zRJLJDntDEoEsRo6LaySf4bKSJ3IE9boZepTQBzfpohA";
-    }
+        return ""}
 
     @Override
     public int getGroupId() {
-        return 226065566;
+        return ;
     }
 
     public static void main(String[] args) throws BotsLongPollException {
