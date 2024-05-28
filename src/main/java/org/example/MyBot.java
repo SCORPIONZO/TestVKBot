@@ -26,11 +26,11 @@ public class MyBot extends LongPollBot {
 
     @Override
     public String getAccessToken() {
-        return ""}
+        return ""}//your Token
 
     @Override
     public int getGroupId() {
-        return ;
+        return ; // your ID
     }
 
     public static void main(String[] args) throws BotsLongPollException {
